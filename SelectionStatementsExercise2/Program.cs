@@ -13,7 +13,6 @@
             switch (favSubject.ToLower())
             {
                 case "math":
-                case "mathematics":
                     Console.WriteLine("Math is such a tough and rewarding subject!");
                     break;
                 case "writing":
